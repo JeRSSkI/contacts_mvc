@@ -19,8 +19,4 @@
 - `main.py` – точка входу в програму
 - `README.md` – опис проекту
 
-## Інструкція з запуску
-1. Клонуйте репозиторій:
-```bash
-git clone https://github.com/<ваш_нікнейм>/contacts_mvc.git
-cd contacts_mvc
+
